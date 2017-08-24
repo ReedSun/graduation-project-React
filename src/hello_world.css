@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.main {
+  padding-top: 70px;
+  text-align: center;
+  font-weight: 100;
+}
+.header {
+  width: 100px;
+  height: 250px;
+  margin-bottom: 35px;
+}
+.title {
+  margin-bottom: 75px;
+  color: #868788;
+  font-weight: 100;
+  font-size: 30px;
+}
+
+.desp {
+  color: #aaabd0;
+  font-size: 20px;
+}
